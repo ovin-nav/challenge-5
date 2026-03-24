@@ -4,7 +4,7 @@
   "description": "Internal release management tool",
   "scripts": {
     "build": "echo 'Build complete'",
-    "test": "echo 'No tests defined'",
+    "test": "echo 'No tests definedd'",
     "start": "node index.js"
   },
   "dependencies": {}
