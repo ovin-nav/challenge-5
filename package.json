@@ -1,0 +1,11 @@
+{
+  "name": "release-manager",
+  "version": "1.0.0",
+  "description": "Internal release management tool",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "test": "echo 'No tests defined'",
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
